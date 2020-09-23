@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6da29a9f-7eed-4967-94fd-6aa7457d74b3" name=".com" url="http://amoozkadeh.com">
+        <fileTransfer host="amoozkadeh.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ab7f963d-7a2d-4714-b06f-e14fef214f15" name=".net" url="http://amoozkadeh.net">
+        <fileTransfer host="amoozkadeh.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ac0acd10-11d4-4337-b6c2-239315c1c888" name="gmg" url="http://chidashop.ir">
+        <fileTransfer host="chidashop.ir" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
